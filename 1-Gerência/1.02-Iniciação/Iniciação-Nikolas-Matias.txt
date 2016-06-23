@@ -1,4 +1,9 @@
 Nome do Artefato: Iniciação-Nikolas-Matias.txt
-Nome do Autor: Nikolas Matias
+Nome do Autor: Nikolas Matias Xavier
 Data de Criação: 23/06/2016
 Hora de criação: 18:16:12
+
+Nome artefato: Iniciação-Nikolas-Matias.txt
+Nome do autor da alteração: Bruno Messias
+Data da alteração: 23/06/2016
+Hora da alteração: 18:26:38
