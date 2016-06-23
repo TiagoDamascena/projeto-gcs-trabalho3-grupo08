@@ -1,0 +1,6 @@
+Nome artefato: Requisitos-Bruno-Messias-2.txt
+Nome do autor: Bruno Messias 
+Data de criação: 23/06/2016
+Hora de criação: 19:11:58
+
+documento criado na master
