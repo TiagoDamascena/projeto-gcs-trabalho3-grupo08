@@ -1,4 +1,7 @@
 Nome do Artefato: Requisitos-Tiago-Damascena.txt
-Nome do Autor: Tiago Damascena
-Data de Criação: 23/06/2016
-Hora de criação: 18:46:29
+Nome do Autor: Tiago Batista Damascena Silva
+Status: Editado
+Data de CriaÃ§Ã£o: 23/06/2016
+Hora de criaÃ§Ã£o: 18:46:29
+
+Editado por: Tiago Damascena
