@@ -1,0 +1,6 @@
+Nome do Artefato: Requisitos-Tiago-Damascena-2.txt
+Nome do Autor: Tiago Damascena
+Data de Criação: 23/06/2016
+Hora de criação: 19:06:21
+
+documento criado no ramo2
