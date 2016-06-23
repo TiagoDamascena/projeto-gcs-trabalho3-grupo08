@@ -1,4 +1,9 @@
 Nome artefato: Agenda-Bruno-Messias.txt
-Nome do autor: Bruno Messias 
+Nome do autor: Bruno dos Santos Messias 
 Data de criação: 23/06/2016
-Hora de criação: 18:10:20 
+Hora de criação: 18:10:20
+
+Nome artefato: Agenda-Bruno-Messias.txt
+Nome do(a) autor(a) da alteração: Tiago Damascena
+Data da alteração: 23/06/2016
+Hora da alteração: 18:30:25
