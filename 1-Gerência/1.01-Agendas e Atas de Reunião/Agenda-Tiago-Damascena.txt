@@ -1,4 +1,9 @@
 Nome do Artefato: Agenda-Tiago-Damascena.txt
-Nome do Autor: Tiago Damascena
+Nome do Autor: Tiago Batista Damascena
 Data de Criação: 23/06/2016
 Hora de criação: 18:08:27
+
+Nome artefato: Agenda-Tiago-Damascena.txt
+Nome do(a) autor(a) da alteração: Nikolas Matias
+Data da alteração: 23/06/2016
+Hora da alteração: 18:24:37
